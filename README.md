@@ -17,10 +17,11 @@
 ### 💼 Experience & Roles
 
 -  **Research Intern** ➔ Indian Institute of Technology, Ropar | *Vicharanashala Research*
+-  **National Finalist** ➔ IIT Patna E-Summit | *FinFlow AI*
+-  **Final Round** ➔ Digital Address DPI Innovation Hackathon | India Post | Digital Governance Summit | Shaastra , IIT Madras
+-  **Participant** ➔ Convolve 4.0 - A Pan-IIT AI/ML Hackathon | IIT, Guwahati
 -  **Student Ambassador** ➔ Google | *Gemini Ambassador Program* | Asian Campus Ambassador
 -  **Community Facilitator** ➔ Google Cloud | *Arcade Facilitator Program (Legend Tier)*
--  **Final Round** ➔ Digital Address DPI Innovation Hackathon | India Post | Digital Governance Summit | Shaastra , IIT Madras
--  **National Finalist** ➔ IIT Patna E-Summit | *FinFlow AI*
 
 ---
 
