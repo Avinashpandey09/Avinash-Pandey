@@ -28,7 +28,7 @@
 
 ### 🚀 About Me
 
-- 🎓 Pursuing **BS in Data Science & Applications (IIT Madras)** & **BBA**
+- 🎓 Pursuing **BS in Data Science & Applications (IIT Madras)**
 - 💻 Building **Full-Stack Applications**, **AI Solutions**, and **Data Pipelines**
 - 🏆 Active participant in **National Hackathons**, Case Competitions, and Product Design
 - ⚡ Fun Fact: I turn coffee and raw datasets into interactive applications & dashboards
