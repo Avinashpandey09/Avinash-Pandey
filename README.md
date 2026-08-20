@@ -21,7 +21,7 @@
 -  **Final Round** ➔ Digital Address DPI Innovation Hackathon | Digital Governance Summit | Shaastra , IIT Madras
 -  **Second RunnerUp** ➔ Credit Intelligence & Product Challenge | Creditplanner.in
 -  **Participant** ➔ Convolve 4.0 - A Pan-IIT AI/ML Hackathon | IIT, Guwahati
--  **Student Ambassador** ➔ Google | *Gemini Ambassador Program* | Asian Campus Ambassador
+-  **Student Ambassador** ➔ Google | Perplexity | Asian Paints
 -  **Community Facilitator** ➔ Google Cloud | *Arcade Facilitator Program (Legend Tier)*
 
 ---
