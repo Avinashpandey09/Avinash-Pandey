@@ -55,3 +55,16 @@
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
+
+### 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <!-- Languages, Frameworks & Cloud (Skill Icons) -->
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,nodejs,postgres,aws,gcp,git,github,vscode" />
+  
+  <br /><br />
+
+  <!-- Tools & Analytics (Power BI & Canva) -->
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</div>
