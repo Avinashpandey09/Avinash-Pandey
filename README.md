@@ -35,6 +35,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,vscode,canva,powerbi" />
-  <br /><br />
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://api.iconify.design/devicon:canva.svg" width="40" height="40" alt="Canva" style="vertical-align: middle; margin-left: 6px;" />
+</div>
 </div>
