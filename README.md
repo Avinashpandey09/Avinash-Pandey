@@ -26,11 +26,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,vscode,powerbi,canva," />
 </div>
 
----
 
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
