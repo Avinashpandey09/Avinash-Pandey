@@ -6,7 +6,7 @@
 
   <p align="center">
     <a href="https://linkedin.com/in/avinashpandey09"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    <a href="https://github.com/Avinashpandey09"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="mailto:Avinashpandey03kot@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
     <a href="https://www.instagram.com/avinashiitm/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   </p>
 
@@ -14,19 +14,29 @@
 
 ---
 
+### 💼 Experience & Roles
+
+- • **Research Intern** ➔ Indian Institute of Technology, Ropar | *Vicharanashala Research*
+- • **Student Ambassador** ➔ Google | *Gemini Ambassador Program*
+- • **Community Facilitator** ➔ Google Cloud | *Arcade Facilitator Program (Legend Tier)*
+- • **Final Round** ➔ Digital Address DPI Innovation Hackathon | India Post | Digital Governance Summit | Shaastra , IIT Madras
+- • **National Finalist** ➔ IIT Patna E-Summit | *FinFlow AI*
+
+---
+
 ### 🚀 About Me
 
-- 🎓 Pursuing **BS in Data Science & Applications (IIT Madras)** 
-- 💻 Passionate about **Full-Stack Web Development**, **Data Engineering**, and **AI Applications**
-- 🏆 Active in **National Hackathons**, Case Challenges, and Rapid Prototyping
-- ⚡ Fun Fact: I turn coffee and messy data into interactive dashboards & apps
+- 🎓 Pursuing **BS in Data Science & Applications (IIT Madras)** & **BBA**
+- 💻 Building **Full-Stack Applications**, **AI Solutions**, and **Data Pipelines**
+- 🏆 Active participant in **National Hackathons**, Case Competitions, and Product Design
+- ⚡ Fun Fact: I turn coffee and raw datasets into interactive applications & dashboards
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,vscode,powerbi,canva," />
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,react,git,github,vscode,canva,powerbi,claude,antigravity" />
 </div>
 
 
