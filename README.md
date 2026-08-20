@@ -17,7 +17,7 @@
 ### 💼 Experience & Roles
 
 -  **Research Intern** ➔ Indian Institute of Technology, Ropar | *Vicharanashala Lab*
--  **National Finalist** ➔ IIT Patna E-Summit | *FinFlow AI*
+-  **National Finalist** ➔ Pitch It Up | IIT Patna E-Summit | Startap Name - *FinFlow AI*
 -  **Final Round** ➔ Digital Address DPI Innovation Hackathon | Digital Governance Summit | Shaastra , IIT Madras
 -  **Second RunnerUp** ➔ Credit Intelligence & Product Challenge | Creditplanner.in
 -  **Participant** ➔ Convolve 4.0 - A Pan-IIT AI/ML Hackathon | IIT, Guwahati
