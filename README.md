@@ -16,7 +16,7 @@
 
 ### 💼 Experience & Roles
 
--  **Research Intern** ➔ Indian Institute of Technology, Ropar | *Vicharanashala Research*
+-  **Research Intern** ➔ Indian Institute of Technology, Ropar | *Vicharanashala Lab*
 -  **National Finalist** ➔ IIT Patna E-Summit | *FinFlow AI*
 -  **Final Round** ➔ Digital Address DPI Innovation Hackathon | Digital Governance Summit | Shaastra , IIT Madras
 -  **Second RunnerUp** ➔ Credit Intelligence & Product Challenge | Creditplanner.in
